@@ -1,5 +1,5 @@
 # Internet-Connection-checker
-Checks Internet Status :- https://drnkgupta.github.io/Internet-Connection-checker/
+Checks Internet Status :-https://nidhishcu.github.io/Internet-Connection-checker/
 
 This is a website which will check if you are connected to the internet or not.
 This has an API for fetching your IP while your device is connected to the internet.
